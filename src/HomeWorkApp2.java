@@ -5,9 +5,9 @@ public class HomeWorkApp2 {
         int y = 5;
 
         if ((x + y) > 10 && (x + y) < 20) {
-            System.out.println(x + y);
+            System.out.println(true);
         } else {
-            System.out.println("Условие не входит в рамки 10><20");
+            System.out.println(false);
         }
 
     }

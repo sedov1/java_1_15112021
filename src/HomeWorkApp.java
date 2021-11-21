@@ -52,7 +52,7 @@ if(a>=b) {
 } else  {
     System.out.println("a<b");
 }
-pub
+
     }
 }
 

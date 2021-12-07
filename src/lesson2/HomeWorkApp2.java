@@ -1,3 +1,5 @@
+package lesson2;
+
 public class HomeWorkApp2 {
 
 
@@ -34,6 +36,7 @@ public class HomeWorkApp2 {
         } else {
             return false;
         }
+
 
     }
 
